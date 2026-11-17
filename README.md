@@ -82,6 +82,9 @@ Methodology and Process for Implementation:
 
 8.Test the application using sample farmer and buyer accounts to check its functionality.
 
+<img width="1536" height="1024" alt="HarvestHub Working Process Infographic" src="https://github.com/user-attachments/assets/c09e6ca8-fee5-4aa7-8775-f635ce631101" />
+
+
 ## Feasibility and Viability
 
 Analysis of Feasibility:
